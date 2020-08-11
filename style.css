@@ -1,0 +1,18 @@
+.first{
+    width: 500px;
+    height: 200px;
+    background-color: #2d4040;
+    padding-left: 150px;
+    margin: auto;
+    border:  5px black solid;
+   
+    
+}
+.sk{
+    padding-top: 60px;
+    padding-left: 30px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+   
+}
